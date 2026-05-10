@@ -6,7 +6,7 @@ TEMA
 - O tema da página é HTML, ela explica o que é e apresenta algumas curiosidades.
 
 ESTRUTURA BÁSICA E SEMÂNTICA
-- O projeto utiliza as tags principais e obrigatórias de uma página HTML que são: "<html>", "<head>", "<body>", também foram utilizadas tags semânticas: "<header>", "<nav>", "<section>" e "<footer>".
+- O projeto utiliza as tags principais e obrigatórias de uma página HTML que são: "html", "head", "body", também foram utilizadas tags semânticas: "header", "nav", "section" e "footer".
 
 LISTAS
 - O projeto possui uma lista ordenada mostrando as versões do HTML em sequência númerica  e uma lista não oerdenada apresentando exemplos de criações com HTML.
